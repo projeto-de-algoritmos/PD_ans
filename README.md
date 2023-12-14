@@ -17,6 +17,10 @@ Resolvemos os seguintes exercícios utilizando algoritmos de programação dinâ
 
 - Problema resolvido por Knapsack: [Saco do Papai Noel](https://www.beecrowd.com.br/judge/pt/problems/view/1767)
 
+- Problema resolvido por Knapsack: [Ice Statues Festival](https://www.beecrowd.com.br/judge/en/problems/view/1034)
+
+- Problema resolvido por Maior Subsequência Crescente: [Profit](https://www.beecrowd.com.br/judge/en/problems/view/1310)
+
 - Problema resolvido por Bellman-Ford (este em c++ pois em python estava dando time limit exceeded): [Ilhas](https://www.beecrowd.com.br/judge/pt/problems/view/2784)
 
 ## Instalação
@@ -38,8 +42,4 @@ Ou, em python:
     python arquivo.py
 
 ## Outro
-
-
-
-
 
