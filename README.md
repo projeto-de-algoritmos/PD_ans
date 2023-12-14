@@ -17,7 +17,7 @@ Resolvemos os seguintes exercícios utilizando algoritmos de programação dinâ
 
 - Problema resolvido por Knapsack: [Saco do Papai Noel](https://www.beecrowd.com.br/judge/pt/problems/view/1767)
 
-- Problema resolvido por Knapsack: [Ice Statues Festival](https://www.beecrowd.com.br/judge/en/problems/view/1034)
+- Problema resolvido por Algoritmo do Trocador em PD: [Ice Statues Festival](https://www.beecrowd.com.br/judge/en/problems/view/1034)
 
 - Problema resolvido por Maior Subsequência Crescente: [Profit](https://www.beecrowd.com.br/judge/en/problems/view/1310)
 
