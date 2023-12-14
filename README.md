@@ -13,7 +13,7 @@
 
 Resolvemos os seguintes exercícios utilizando algoritmos de programação dinâmica:
 
-- Problema resolvido por Knapsack: [Supermercado](https://www.beecrowd.com.br/judge/pt/problems/view/1351)
+- Problema resolvido por WIS: [Supermercado](https://www.beecrowd.com.br/judge/pt/problems/view/1351)
 
 - Problema resolvido por Knapsack: [Saco do Papai Noel](https://www.beecrowd.com.br/judge/pt/problems/view/1767)
 
